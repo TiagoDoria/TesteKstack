@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/doria/Área de Trabalho/TesteKstack/Kstack.API/Kstack.API.csproj": {}
+  },
+  "projects": {
+    "/home/doria/Área de Trabalho/TesteKstack/Kstack.API/Kstack.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/doria/Área de Trabalho/TesteKstack/Kstack.API/Kstack.API.csproj",
+        "projectName": "Kstack.API",
+        "projectPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.API/Kstack.API.csproj",
+        "packagesPath": "/home/doria/.nuget/packages/",
+        "outputPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.API/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/doria/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/Kstack.Domain.csproj": {
+                "projectPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/Kstack.Domain.csproj"
+              },
+              "/home/doria/Área de Trabalho/TesteKstack/Kstack.Repository/Kstack.Repository.csproj": {
+                "projectPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Repository/Kstack.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/Kstack.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/Kstack.Domain.csproj",
+        "projectName": "Kstack.Domain",
+        "projectPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/Kstack.Domain.csproj",
+        "packagesPath": "/home/doria/.nuget/packages/",
+        "outputPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/doria/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/doria/Área de Trabalho/TesteKstack/Kstack.Repository/Kstack.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Repository/Kstack.Repository.csproj",
+        "projectName": "Kstack.Repository",
+        "projectPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Repository/Kstack.Repository.csproj",
+        "packagesPath": "/home/doria/.nuget/packages/",
+        "outputPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/doria/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/Kstack.Domain.csproj": {
+                "projectPath": "/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/Kstack.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

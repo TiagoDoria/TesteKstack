@@ -1,0 +1,9 @@
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/bin/Debug/netstandard2.0/Kstack.Domain.deps.json
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/bin/Debug/netstandard2.0/Kstack.Domain.dll
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/bin/Debug/netstandard2.0/Kstack.Domain.pdb
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/obj/Debug/netstandard2.0/Kstack.Domain.csprojAssemblyReference.cache
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/obj/Debug/netstandard2.0/Kstack.Domain.csproj.CoreCompileInputs.cache
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/obj/Debug/netstandard2.0/Kstack.Domain.AssemblyInfoInputs.cache
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/obj/Debug/netstandard2.0/Kstack.Domain.AssemblyInfo.cs
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/obj/Debug/netstandard2.0/Kstack.Domain.dll
+/home/doria/Área de Trabalho/TesteKstack/Kstack.Domain/obj/Debug/netstandard2.0/Kstack.Domain.pdb
