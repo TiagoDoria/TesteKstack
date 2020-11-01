@@ -1,6 +1,6 @@
 using System;
 using System.Dynamic;
-using Kstack.Domain;
+using Kstack.Domain.Models;
 using Kstack.Repository;
 using Microsoft.AspNetCore.Mvc;
 

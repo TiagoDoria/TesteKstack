@@ -1,4 +1,4 @@
-namespace Kstack.Domain
+namespace Kstack.Domain.Models
 {
     public class Resultado : Calculo
     {
